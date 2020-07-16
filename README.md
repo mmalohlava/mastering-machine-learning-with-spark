@@ -1,7 +1,7 @@
 # Mastering Machine Learning With Spark 2.x
 > Unlock the complexities of machine learning algorithms in Spark to generate useful data insights through this data analysis tutorial
 
-[img/cover.png]
+![Book cover](cover.png)
 
 ## 📖 Book
 You can find book in:
